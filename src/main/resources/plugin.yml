@@ -1,0 +1,6 @@
+name: IllusionMina
+version: 1.1
+main: tigre.illusion.IllusionPlugin
+api-version: '1.21'
+author: MK
+description: aa.
